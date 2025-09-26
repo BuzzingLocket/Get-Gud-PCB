@@ -10,3 +10,5 @@ Design requirements:
 - Temperature sensing
 - LCSC/JLC part # included for all symbols used (i.e C2040)
 - Bonus points for readable schematics and compact layout!!!!
+
+Using a ICM 20948 IC for 9-axis detection
