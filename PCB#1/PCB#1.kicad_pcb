@@ -1999,7 +1999,7 @@
 				)
 			)
 		)
-		(property "Value" "ICM-20948"
+		(property "Value" "TDK InvenSense ICM-20948"
 			(at 0 3.25 90)
 			(layer "F.Fab")
 			(uuid "48d65d26-4a17-4f8e-aa8c-8c95b13ccf3e")
@@ -5320,7 +5320,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_GND24"
+		(property "Value" "ABRACON ABM8-272-T3"
 			(at 0 2.45 90)
 			(layer "F.Fab")
 			(uuid "29aab923-dab2-4b37-b0e4-61d798aa0279")
@@ -6927,7 +6927,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP1117-3.3_SOT223"
+		(property "Value" "onsemi NCP1117DT33G"
 			(at 0 4.5 90)
 			(layer "F.Fab")
 			(uuid "0d0f42ba-f278-479b-ae0a-30731056cc9f")
@@ -7586,7 +7586,7 @@
 				)
 			)
 		)
-		(property "Value" "MPL115A1"
+		(property "Value" "NXP MPL115A1T1"
 			(at 0 3.45 0)
 			(layer "F.Fab")
 			(uuid "2051ec16-3303-4de9-b255-6789c9a4bb3e")
@@ -8110,7 +8110,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP1117-1.8_SOT223"
+		(property "Value" "onsemi NCP1117DT33G"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "e59fdffa-dbc4-4760-96fd-cf0373d4774a")
@@ -9375,7 +9375,7 @@
 				)
 			)
 		)
-		(property "Value" "RP2040"
+		(property "Value" "Raspberry Pi RP2040"
 			(at 0 4.83 90)
 			(layer "F.Fab")
 			(uuid "2f9b8fe7-4009-4aee-9542-bc2208ff7925")
@@ -10359,7 +10359,7 @@
 				)
 			)
 		)
-		(property "Value" "BSS138"
+		(property "Value" "onsemi BSS138"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "d95a45ba-1afc-43fd-bd00-8444a4edbb68")
@@ -11037,7 +11037,7 @@
 		(at 136.25 113.75 180)
 		(descr "VSSOP, 8 Pin (https://www.jedec.org/standards-documents/docs/mo-187-f), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "VSSOP SO JEDEC-MO-187-AA Texas_DGK0008A")
-		(property "Reference" "U8"
+		(property "Reference" "U6"
 			(at 0 -2.45 0)
 			(layer "F.SilkS")
 			(uuid "a6145861-09f2-4730-b8b5-1305b8002ba8")
@@ -11048,7 +11048,7 @@
 				)
 			)
 		)
-		(property "Value" "TCA9406DC"
+		(property "Value" "TI TCA9406DCTR"
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(uuid "288b740d-a6fa-4140-9faf-57747464d28c")
